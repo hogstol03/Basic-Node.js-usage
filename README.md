@@ -14,7 +14,7 @@ Follow these steps to run the project on your local machine:
    First, clone this repository to your local machine using Git.
 
    ```bash
-  git clone https://github.com/hogstol03/Basic-Node.js-usage.git
+   git clone https://github.com/hogstol03/Basic-Node.js-usage.git
 
 2. **Navigate to the Project Folder**:
 
