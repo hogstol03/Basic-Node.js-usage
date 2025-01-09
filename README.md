@@ -28,6 +28,7 @@ Follow these steps to run the project on your local machine:
 
 4. **Access the Project: Open your browser and go to**:
 
+   ```bash
    http://localhost:8080/
 
 *(You should see "Hello World!" displayed.)*
