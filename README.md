@@ -30,5 +30,3 @@ Follow these steps to run the project on your local machine:
 
    ```bash
    http://localhost:8080/
-
-*(You should see "Hello World!" displayed.)*
